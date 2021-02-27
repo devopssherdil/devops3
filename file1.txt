@@ -1,0 +1,6 @@
+1. DevOps
+2. Linux
+3. Git
+4. Docker
+5. Jenkins
+6. Kubernates
