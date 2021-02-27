@@ -1,0 +1,3 @@
+this is file2
+new entry in file2
+sample text
