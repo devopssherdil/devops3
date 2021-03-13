@@ -1,6 +1,0 @@
-1. DevOps
-2. Linux (Centos)
-3. Git
-5. Jenkins
-6. Kubernates
-7. Ansible
