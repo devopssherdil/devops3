@@ -1,2 +1,3 @@
 this is my file9.txt... this is new text in master branch
+this is my file9.txt..... this has entered from latest branch
 this is Git Directory
