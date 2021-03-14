@@ -4,3 +4,5 @@
 5. Jenkins
 6. Kubernates
 7. Ansible
+8. AWS
+9. GCP
